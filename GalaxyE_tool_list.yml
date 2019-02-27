@@ -187,6 +187,10 @@ tools:
     owner: bgruening
     tool_panel_section_label: Statistics
 
+  - name: normalize_dataset
+    owner: bebatut
+    tool_panel_section_label: Statistics
+
   - name: seq_composition
     owner: peterjc
     tool_panel_section_label: Statistics
