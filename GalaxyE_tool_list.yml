@@ -402,6 +402,10 @@ tools:
     owner: frogs
     tool_panel_section_label: Find Rapidly OTUs from NGS
     
+  - name: frogs_3_1_0
+    owner: frogs
+    tool_panel_section_label: Find Rapidly OTUs from NGS
+    
   - name: bwa
     owner: devteam
     tool_panel_section_label: Building LOCI from RADseq
